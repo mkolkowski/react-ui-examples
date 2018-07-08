@@ -1,0 +1,26 @@
+.menu{
+    float: left;
+    max-width: 200px;
+    margin-right: 200px;
+}
+
+.page-body{
+    float: left;
+}
+
+a{
+    text-decoration: unset;
+}
+
+.right-column{
+  width: 800px;
+  margin-bottom: 50px;
+}
+
+.input-margin{
+    margin-bottom: 5px;
+}
+
+.footer{
+    clear: both;
+}
